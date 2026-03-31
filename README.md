@@ -64,3 +64,7 @@ This helped develop skills in data handling, critical thinking, and interpreting
 - [x] Complete IT qualification
 - [ ] Secure internship in data analysis
 - [ ] Improve SQL skills
+<h2> Mock Interview Video</h2>
+<source src="interview(1).mp4"
+type="video/mp4">
+</video>
